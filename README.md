@@ -126,11 +126,11 @@ O YouTube é um ótimo exemplo de como a Interação Humano-Computador evolui ju
 ## 🌐 Fontes 
 
 - [YouTube – Me at the zoo (2005)](https://www.youtube.com/watch?v=jNQXAC9IVRw)
-- [Aquisição pelo Google (2006)](https://techcrunch.com/2006/10/09/google-acquires-youtube/)
+- [Aquisição pelo Google (2006)](https://g1.globo.com/Noticias/Tecnologia/0,,AA1304481-6174,00.html)
 - [Blog oficial sobre HTML5](https://youtube.googleblog.com/2010/01/introducing-html5-support.html)
 - [YouTube Gaming Announcement](https://blog.youtube/news-and-events/youtube-gaming-launches-today)
-- [YouTube Shorts](https://blog.youtube/news-and-events/building-youtube-shorts/)
-- [IA no YouTube (2023)](https://blog.youtube/news-and-events/ai-powered-features-coming-to-youtube/)
+- [YouTube Shorts](https://g1.globo.com/economia/tecnologia/noticia/2021/06/07/youtube-shorts-rival-do-tiktok-estreia-no-brasil-nesta-segunda.ghtml)
+- [IA no YouTube (2023)](https://exame.com/inteligencia-artificial/youtube-introduz-ferramenta-para-identificacao-de-conteudo-gerado-por-ia/)
 - [Web Design Museum – YouTube (2018)](https://www.webdesignmuseum.org/gallery/youtube-2018)
 
 ---
