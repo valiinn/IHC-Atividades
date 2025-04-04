@@ -1,9 +1,9 @@
 # 📺 YouTube: Trajetória e Transformações na Experiência do Usuário
 
 ## 👥 Integrantes do Projeto
-- Fulano da Silva — RA: 0000000
-- Ciclana Pereira — RA: 0000001
-- Beltrano Souza — RA: 0000002
+- Luiz Eduardo Vale 
+- Carlos Augusto Teixeira
+- Arthur Emmanuel Mamed
 
 ---
 
