@@ -128,6 +128,7 @@ O YouTube é um ótimo exemplo de como a Interação Humano-Computador evolui ju
 - [YouTube Gaming Announcement](https://blog.youtube/news-and-events/youtube-gaming-launches-today)
 - [YouTube Shorts](https://blog.youtube/news-and-events/building-youtube-shorts/)
 - [IA no YouTube (2023)](https://blog.youtube/news-and-events/ai-powered-features-coming-to-youtube/)
+- [Web Design Museum – YouTube (2018)](https://www.webdesignmuseum.org/gallery/youtube-2018)
 
 ---
 
