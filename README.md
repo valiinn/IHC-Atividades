@@ -8,20 +8,23 @@
 ---
 
 ## 🎯 Visão Geral
-Este repositório apresenta um estudo exploratório sobre a evolução do YouTube, observando como a plataforma tem moldado (e sido moldada por) os princípios da Interação Humano-Computador (IHC) desde sua fundação. Através de uma linha temporal com marcos significativos, discutimos como mudanças técnicas e visuais impactaram o comportamento de milhões de usuários em todo o mundo.
+Neste repositório, decidimos contar a história do YouTube de um jeito diferente: criamos uma linha do tempo com os momentos mais marcantes da plataforma. Queremos entender como cada mudança, seja no visual, nas funcionalidades ou na forma como interagimos com o site, transformou a experiência de quem usa o YouTube ao longo dos anos.
 
 ---
 
 ## ✨ Por que estudar o YouTube sob a ótica da IHC?
 
-O YouTube não é apenas uma rede de vídeos — é uma ferramenta global de comunicação, aprendizado e entretenimento. Com sua popularização, surgiram novos desafios em design de interface, usabilidade, acessibilidade e personalização.
+O YouTube vai muito além de vídeos, é uma plataforma onde você aprende e se conecta com o mundo. Com seu crescimento, a plataforma enfrentou desafios importantes: como criar uma interface intuitiva? Como garantir que todos possam usar, independente de habilidade ou necessidade? Como personalizar a experiência sem invadir a privacidade?
 
-Objetivos deste estudo:
+O que queremos descobrir com este estudo:
 
-- Mapear a evolução das funcionalidades do YouTube
-- Refletir sobre como o design influenciou (e facilitou) o uso da plataforma
-- Apontar tendências e dificuldades em usabilidade ao longo do tempo
-- Conectar mudanças tecnológicas com conceitos de IHC
+- Como o YouTube mudou ao longo do tempo – Quais funcionalidades surgiram e como elas transformaram nossa experiência?
+
+- O poder do design – De que forma as escolhas visuais e de usabilidade facilitam (ou atrapalham) nosso uso diário?
+
+- Acertos e erros – Quais inovações deram certo e onde a plataforma ainda tropeça em acessibilidade e usabilidade?
+
+- Tecnologia & Pessoas – Como as mudanças técnicas se relacionam com os princípios de Interação Humano-Computador (IHC)?
 
 ---
 
