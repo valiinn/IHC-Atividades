@@ -1,0 +1,315 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #ffffff;
+  color: #121212;
+  line-height: 1.6;
+}
+
+img {
+  width: 400px;
+  height: 450px;
+}
+
+/* Estrutura geral */
+header,
+nav,
+main,
+footer {
+  padding: 1rem 2rem;
+}
+
+/* Cabeçalho */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #202020;
+  color: #ffffff;
+  padding: 10px 5px;
+  border-bottom: 3px solid #ee3d3d;
+}
+
+.blocoheader {
+  display: flex;
+  align-items: center; /* Alinha verticalmente no centro */
+  margin-left: 40px;
+  gap: 1rem; /* Espaço entre a imagem e o h1 */
+}
+
+.blocoheader img {
+  width: 80px;
+  height: 80px; /* ou ajuste conforme sua necessidade */
+}
+
+.blocoheader h1 {
+  margin: 0; /* Remove margem padrão para evitar desalinhamento */
+  font-size: 2rem; /* Ajuste conforme o design */
+}
+
+.left {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-left: 5px;
+}
+
+.right {
+  text-align: right;
+  font-size: 0.95rem;
+  margin-right: 5px;
+}
+
+.navbar {
+  background-color: #ffffff;
+  padding: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+  font-family: sans-serif;
+  border-bottom: 3px solid #ee3d3d;
+}
+
+.navbar a {
+  color: #000000;
+  text-decoration: none;
+  padding: 0.5rem 0.75rem;
+  transition: background 0.3s;
+}
+
+.navbar a:hover {
+  background-color: #444;
+  border-radius: 4px;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-toggle {
+  background: none;
+  border: none;
+  color: #000000;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 0.5rem 0.75rem;
+  display: flex;
+  align-items: center;
+}
+
+.arrow {
+  margin-left: 0.5rem;
+  transition: transform 0.3s ease;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 110%;
+  left: 0;
+  background: #fff;
+  color: #333;
+  padding: 1rem;
+  border-radius: 6px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  width: 300px;
+  flex-direction: column;
+  z-index: 100;
+}
+
+.dropdown-menu a {
+  display: block;
+  padding: 0.3rem 0;
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.dropdown-menu a:hover {
+  text-decoration: underline;
+}
+
+.dropdown-menu strong {
+  display: block;
+  margin: 1rem 0 0.5rem;
+  color: #000;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: flex;
+}
+
+.dropdown:hover .arrow {
+  transform: rotate(180deg);
+}
+
+/* Seções */
+.section {
+  margin: 2rem 0;
+}
+
+/* Eventos */
+.event {
+  background-color: #fdfdfd;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-left: 5px solid #ffd700;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+/* Galeria de Imagens */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.gallery img {
+  width: 100%;
+  border: 3px solid #000000;
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+.gallery img:hover {
+  transform: scale(1.05);
+}
+
+/* Rodapé */
+footer {
+  background-color: #202020;
+  color: #fbff02;
+  text-align: center;
+  padding: 2rem;
+  font-size: 0.9rem;
+  border-top: 3px solid #ee3d3d;
+}
+
+/* Títulos */
+h2,
+h3 {
+  color: #000000;
+}
+
+.txth {
+  margin-right: 15px;
+}
+
+.calendar-event {
+  display: flex;
+  background-color: #f9f9f9;
+  border-left: 5px solid #ffd700;
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.calendar-container {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+  max-width: 100%;
+}
+
+.calendar-date {
+  text-align: center;
+  background-color: #fff;
+  border: 2px solid #000;
+  padding: 0.5rem;
+  margin-right: 1rem;
+  border-radius: 6px;
+  width: 50px;
+  height: 70px;
+  font-weight: bold;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.calendar-date .day {
+  font-size: 1.5rem;
+  color: #121212;
+  line-height: 1.2;
+}
+
+.calendar-date .month {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  color: #000;
+  line-height: 1.2;
+}
+
+.calendar-info {
+  flex-grow: 1;
+  overflow: hidden;
+}
+
+.calendar-info h3 {
+  margin-top: 0;
+  margin-bottom: 0.3rem;
+  color: #000;
+  font-size: 1.1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.calendar-info p {
+  font-size: 0.95rem;
+  color: #333;
+  margin: 0;
+  line-height: 1.4;
+}
+
+/* Container que mantém todos os cards empilhados verticalmente */
+.bulletin-container {
+  display: flex;
+  flex-direction: row; /* agora alinha os cards lado a lado */
+  gap: 1.5rem;
+  overflow-x: auto; /* permite rolagem horizontal se não couber tudo */
+  padding: 1rem 0;
+  scroll-snap-type: x mandatory;
+}
+
+/* Estilo dos cards retangulares */
+.bulletin-card {
+  background: #f5f3f3;
+  border-radius: 12px;
+  border-top: 5px solid #ffd700;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+  padding: 1.5rem;
+  width: 300px; /* largura fixa para parecer um retângulo */
+  flex-shrink: 0; /* impede os cards de diminuírem em telas pequenas */
+  scroll-snap-align: start;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.bulletin-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12);
+}
+
+.bulletin-card p {
+  margin: 0.5rem 0;
+  color: #333;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.bulletin-card a {
+  color: #000;
+  text-decoration: underline;
+}
+
+.bulletin-card a:hover {
+  color: #ffd700;
+}
