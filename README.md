@@ -16,25 +16,24 @@ Este repositório foi desenvolvido como parte de um trabalho acadêmico para a d
 
 | Pasta | Descrição |
 |-------|-----------|
-| `linha-do-tempo` | Contém o documento PDF e o conteúdo original do projeto, apresentando uma linha do tempo detalhada sobre as mudanças na interface e experiência do usuário no YouTube. |
-| `recursos-visuais` | Imagens e capturas de tela usadas como material de apoio para ilustrar as transformações no design da plataforma ao longo dos anos. *(opcional, crie se for usar)* |
-| `referencias` | Lista de links, artigos, vídeos e materiais de apoio utilizados na pesquisa e fundamentação teórica. *(opcional)* |
+| `Youtube` | Contém o documento PDF e o conteúdo original do projeto, apresentando uma linha do tempo detalhada sobre as mudanças na interface e experiência do usuário no YouTube. |
+| `Atividade Redesign de página web` | Contem o Html e Css da página web que escolhemos |
 
 ---
 
 ## ✨ Sobre o Projeto
 
-Este trabalho tem como foco analisar **a trajetória e as transformações na experiência do usuário do YouTube**, relacionando cada etapa de sua evolução com os princípios de IHC, como usabilidade, acessibilidade, personalização e design centrado no usuário.
+- Youtube: Fizemos a linha do tempo do Youtube e detalhamos todas as estapas e alterações que o site sofreu ao longo dos anos.
+- Atividade Redesign de página web: Escolhemos uma Página com um design problemático e criamos a nossa versão aplicando boas práticas de usabilidade e acessibilidade.
 
-Nosso objetivo é refletir sobre como escolhas técnicas e visuais impactam diretamente a maneira como interagimos com uma das maiores plataformas digitais do mundo.
+
 
 ---
 
 ## 📌 Como navegar
 
-1. Acesse a pasta `linha-do-tempo` para ver o conteúdo principal da pesquisa.
-2. Consulte `recursos-visuais` (se disponível) para ver as interfaces ao longo dos anos.
-3. Visite `referencias` para conhecer as fontes utilizadas no trabalho.
+1. Acesse a pasta `Youtube` para ver o conteúdo relacionado ao primeiro trabalho onde fizemos uma linha do tempo do site Youtube.
+
 
 ---
 
