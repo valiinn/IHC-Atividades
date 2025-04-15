@@ -17,7 +17,7 @@ Este repositório foi desenvolvido como parte de um trabalho acadêmico para a d
 | Pasta | Descrição |
 |-------|-----------|
 | `Youtube` | Contém o documento PDF e o conteúdo original do projeto, apresentando uma linha do tempo detalhada sobre as mudanças na interface e experiência do usuário no YouTube. |
-| `Atividade Redesign de página web` | Contem o Html e Css da página web que escolhemos |
+| `Redesign-Web` | Contem o Html e Css da página web que escolhemos |
 
 ---
 
