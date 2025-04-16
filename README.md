@@ -1,7 +1,6 @@
 # 🎓 Projeto de Interação Humano-Computador (IHC)
 
-Este repositório foi desenvolvido como parte de um trabalho acadêmico para a disciplina de Interação Humano-Computador. Nosso objetivo é explorar, analisar e apresentar a evolução da experiência do usuário na plataforma **YouTube**, através de uma abordagem visual e histórica.
-
+Este repositório foi desenvolvido como parte de um trabalho acadêmico para a disciplina de Interação Humano-Computador onde colocaremos todos os projetos da disciplina. Nosso objetivo é explorar, analisar e apresentar trabalhos de IHC com intuito de aprofundar nossos conhecimentos em Experiência de Usúario e outros temas.
 ---
 
 ## 👥 Integrantes do Grupo
