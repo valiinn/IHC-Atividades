@@ -8,7 +8,7 @@ Este repositório foi desenvolvido como parte de um trabalho acadêmico para a d
 
 - **Luiz Eduardo Vale**
 - **Carlos Augusto Teixeira**
-- **Arthur Emmanuel Mamed**
+- **Arthur Emmanuel Demetrio Mamede**
 
 ---
 
